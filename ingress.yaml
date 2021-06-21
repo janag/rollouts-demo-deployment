@@ -15,5 +15,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: canary-demo
+          serviceName: rollouts-demo
           servicePort: 80
